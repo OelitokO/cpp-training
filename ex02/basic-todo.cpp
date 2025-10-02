@@ -13,7 +13,7 @@
 															 \ \_/ /|  __/| || || |_ | (_) ||   <
 															  \___/  \___||_||_| \__| \___/ |_|\_\
 File     : basic-todo.cpp
-Project  : cpp-training/ex00
+Project  : cpp-training/ex02
 Created  : 2025-10-02 20:39
 Signature: ⓄℯⓄ ⚡ ┌cpp-training┐
 */
